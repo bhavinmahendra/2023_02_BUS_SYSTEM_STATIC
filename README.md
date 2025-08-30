@@ -1,4 +1,4 @@
-This project consists in creating a bus management system. It uses the following commands:
+This project consists in creating a bus management system (static memory allocation - on purpose). It uses the following commands:
  - `q` to quit.
  - `c` lists all lines, with each line showing the first and last stops, the number of stops,  total cost and total duration.
  - `c <line>` adds a line if it does not exist, if it does, lists the stops associated to that line.
