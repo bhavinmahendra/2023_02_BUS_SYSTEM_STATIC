@@ -9,4 +9,6 @@ This project consists in creating a bus management system (static memory allocat
  - `l <line> <stop1> <stop2> <cost> <duration>` creates a link between two stops (on a certain line).
  - `i` lists all the interceptions.
 
+Compilation: `gcc -O3 -Wall -Wextra -Werror -ansi -pedantic -o main main.c`.
+
 Note: This is an academic project. The idea of the project came from Vasco Manquinho (Instituto Superior Técnico, Lisbon, Portugal)
